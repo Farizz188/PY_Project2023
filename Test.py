@@ -1,2 +1,0 @@
-z = "black"
-print(z)
