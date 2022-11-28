@@ -1,0 +1,2 @@
+z = "black"
+print(z)
