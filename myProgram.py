@@ -1,0 +1,2 @@
+s = "jump"
+print(s)
